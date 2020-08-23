@@ -1,6 +1,7 @@
 {
   "name": "REBBL Pitches",
   "description": "Adds the REBBL logo to the grass, astrogranite and elf turf pitches",
+  "previewImage": "rebbl-pitches-preview.png",
 
   "files": {
     "grasslight_dff_0.texture": "3d/stadium/grasspitch/material/textures/textureconfig",
