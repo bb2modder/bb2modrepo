@@ -4,8 +4,8 @@
   "previewImage": "rebbl-pitches-preview.png",
 
   "files": {
-    "grasslight_dff_0.texture": "3d/stadium/grasspitch/material/textures/textureconfig",
-    "grasslightelfturf_dff_0.texture": "3d/stadium/grasspitch/material/textures/textureconfig",
-    "astrogranitelogos_dff_0.texture": "3d/stadium/custo/material/textures/textureconfig"
+    "grasslight_dff_0.texture.dds": "3d/stadium/grasspitch/material/textures/textureconfig",
+    "grasslightelfturf_dff_0.texture.dds": "3d/stadium/grasspitch/material/textures/textureconfig",
+    "astrogranitelogos_dff_0.texture.dds": "3d/stadium/custo/material/textures/textureconfig"
   }
 }
