@@ -1,7 +1,7 @@
 {
   "name": "REBBL.net Signup Pitch",
   "description": "Adds the REBBL logo, 3 conference logos and \"rebbl.net/signup\" to the grass pitch only",
-  "previewImage": "",
+  "previewImage": "rebblnet-pitch-preview.png",
 
   "files": {
     "grasslight_dff_0.texture.dds": "3d/stadium/grasspitch/material/textures/textureconfig"
