@@ -4,6 +4,6 @@
   "previewImage": "rebbl-ball-preview.png",
 
   "files": {
-    "ball_diff_0.texture.dds": "3d/stadium/grasspitch/material/textures/textureconfig"
+    "ball_diff_0.texture.dds": "3d/objects/ball/material/textures"
   }
 }
