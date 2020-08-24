@@ -1,0 +1,11 @@
+{
+  "name": "No Goalposts",
+  "description": "Removes the goalposts from both ends of the pitch",
+  "previewImage": "",
+
+  "files": {
+    "goal_0.cef": "3d/stadium/custo/deco/fbx",
+    "goal_v2_0.cef": "3d/stadium/custo/deco/fbx",
+    "goal_v3_0.cef": "3d/stadium/custo/deco/fbx"
+  }
+}
