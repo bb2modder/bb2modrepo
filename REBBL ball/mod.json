@@ -1,0 +1,9 @@
+{
+  "name": "REBBL Ball",
+  "description": "Darkens and adds the REBBL logo to the default ball",
+  "previewImage": "rebbl-ball-preview.png",
+
+  "files": {
+    "ball_diff_0.texture.dds": "3d/stadium/grasspitch/material/textures/textureconfig",
+  }
+}
