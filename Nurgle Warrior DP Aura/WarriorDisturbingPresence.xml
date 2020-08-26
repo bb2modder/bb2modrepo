@@ -1,0 +1,12 @@
+<DisturbingPresence>
+    <FX>
+        <effect>DisturbingPresenceWarrior</effect>
+        <effect>DisturbingZone</effect>
+    </FX>
+    <FX_Alt>
+        <effect>DisturbingPresenceWarrior</effect>
+        <effect>DisturbingZone_Blue</effect>
+    </FX_Alt>
+    <Show/>
+    <Hide/>
+</DisturbingPresence>

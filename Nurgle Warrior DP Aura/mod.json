@@ -1,0 +1,13 @@
+{
+  "name": "Nurgle Warrior DP Aura",
+  "description": "Adds the red glow other players with Disturbing Presence get to Nurgle Warriors",
+  "previewImage": "dp-aura-preview.png",
+
+  "files": {
+  },
+  "xml": {
+    "race/Nurgle.xml": {
+      "Nurgle.xml/AllProfession/NurgleWarrior/Mutation/DisturbingPresence": "WarriorDisturbingPresence.xml"
+    }
+  }
+}
