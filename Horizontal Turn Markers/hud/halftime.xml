@@ -1,0 +1,12 @@
+<Window Type="GameLook/StaticText" Name="Play/HideZone/Safe/HalfTime" >
+    <Property Name="Font" Value="InGameCoachName" />
+    <Property Name="Text" Value="1" />
+    <Property Name="Alpha" Value="0" />
+    <Property Name="TextColours" Value="tl:FFBBBBBA tr:FFBBBBBA bl:FFBBBBBA br:FFBBBBBA" />
+    <Property Name="FrameEnabled" Value="False" />
+    <Property Name="HorzFormatting" Value="RightAligned" />
+    <Property Name="UnifiedAreaRect" Value="{{-0.121354,0},{0.0324074,0},{0.0369789,0},{0.0500001,0}}" />
+    <Property Name="BackgroundEnabled" Value="False" />
+    <Property Name="HorizontalAlignment" Value="Centre" />
+    <Property Name="MousePassThroughEnabled" Value="True" />
+</Window>

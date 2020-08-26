@@ -1,0 +1,49 @@
+{
+  "name": "Horizontal Turn Markers",
+  "description": "Turns the vertical turn markers into horizontal ones.\nDrops the active turn background.\nMoves enhancement icon on the lefthand side of the score.",
+  "previewImage": "preview.png",
+
+  "files": {
+  },
+  "xml":{
+    "gui/layouts/play.layout":{
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team1Turn1Selection']":"remove/removeT1T1Selection.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team1Turn2Selection']":"remove/removeT1T2Selection.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team1Turn3Selection']":"remove/removeT1T3Selection.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team1Turn4Selection']":"remove/removeT1T4Selection.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team1Turn5Selection']":"remove/removeT1T5Selection.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team1Turn6Selection']":"remove/removeT1T6Selection.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team1Turn7Selection']":"remove/removeT1T7Selection.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team1Turn8Selection']":"remove/removeT1T8Selection.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team2Turn1Selection']":"remove/removeT2T1Selection.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team2Turn2Selection']":"remove/removeT2T2Selection.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team2Turn3Selection']":"remove/removeT2T3Selection.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team2Turn4Selection']":"remove/removeT2T4Selection.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team2Turn5Selection']":"remove/removeT2T5Selection.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team2Turn6Selection']":"remove/removeT2T6Selection.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team2Turn7Selection']":"remove/removeT2T7Selection.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team2Turn8Selection']":"remove/removeT2T8Selection.xml",
+
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team1Turn1']":"replace/replaceT1T1.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team1Turn2']":"replace/replaceT1T2.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team1Turn3']":"replace/replaceT1T3.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team1Turn4']":"replace/replaceT1T4.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team1Turn5']":"replace/replaceT1T5.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team1Turn6']":"replace/replaceT1T6.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team1Turn7']":"replace/replaceT1T7.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team1Turn8']":"replace/replaceT1T8.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team2Turn1']":"replace/replaceT2T1.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team2Turn2']":"replace/replaceT2T2.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team2Turn3']":"replace/replaceT2T3.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team2Turn4']":"replace/replaceT2T4.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team2Turn5']":"replace/replaceT2T5.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team2Turn6']":"replace/replaceT2T6.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team2Turn7']":"replace/replaceT2T7.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Team2Turn8']":"replace/replaceT2T8.xml",
+
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/HalfTime']":"hud/halftime.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Enhancement/HudEnhancementSupport']":"hud/support.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Enhancement']":"hud/enhancement.xml"
+    }
+  }
+}

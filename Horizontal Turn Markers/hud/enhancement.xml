@@ -1,0 +1,13 @@
+<Window Type="GameLook/StaticImage" Name="Play/HideZone/Safe/Enhancement" >
+    <Property Name="Image" Value="set:StructurePreview image:Bazar" />
+    <Property Name="FrameEnabled" Value="False" />
+    <Property Name="UnifiedAreaRect" Value="{{-0.07062,0},{0.02410376,0},{-0.04995,0},{0.0623662,0}}" />
+    <Property Name="BackgroundEnabled" Value="False" />
+    <Property Name="HorizontalAlignment" Value="Centre" />
+    <Window Type="GameLook/StaticImage" Name="Play/HideZone/Safe/Enhancement/TooltipPlacement" >
+        <Property Name="FrameEnabled" Value="False" />
+        <Property Name="UnifiedAreaRect" Value="{{2.11444,0},{0.785212,0},{2.43944,0},{1.13732,0}}" />
+        <Property Name="BackgroundEnabled" Value="False" />
+        <Property Name="MousePassThroughEnabled" Value="True" />
+    </Window>
+</Window>

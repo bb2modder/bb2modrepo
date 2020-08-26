@@ -1,0 +1,7 @@
+<Window Type="GameLook/StaticImage" Name="Play/HideZone/Safe/Enhancement/HudEnhancementSupport" >
+    <Property Name="FrameEnabled" Value="False" />
+    <Property Name="UnifiedAreaRect" Value="{{0.13177,0},{0.0195694,0},{0.197393,0},{0.0706377,0}}" />
+    <Property Name="BackgroundEnabled" Value="False" />
+    <Property Name="HorizontalAlignment" Value="Centre" />
+    <Property Name="MousePassThroughEnabled" Value="True" />
+</Window>
