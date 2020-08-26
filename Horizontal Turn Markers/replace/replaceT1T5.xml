@@ -1,0 +1,10 @@
+<Window Type="GameLook/StaticText" Name="Play/HideZone/Safe/Team1Turn5" >
+    <Property Name="Font" Value="InGameTurnValue" />
+    <Property Name="Text" Value="5" />
+    <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC" />
+    <Property Name="FrameEnabled" Value="False" />
+    <Property Name="HorzFormatting" Value="HorzCentred" />
+    <Property Name="UnifiedAreaRect" Value="{{0.324,0},{0.019926,0},{0.332,0},{0.059741,0}}" />
+    <Property Name="BackgroundEnabled" Value="False" />
+    <Property Name="MousePassThroughEnabled" Value="True" />
+</Window>
