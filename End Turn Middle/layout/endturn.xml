@@ -1,0 +1,36 @@
+<Window Name="Play/HideZone/Safe/SupportButtonEndOfTurn" Type="GameLook/StaticImage">
+    <Property Name="FrameEnabled" Value="False"/>
+    <Property Name="UnifiedAreaRect" Value="{{0.386458,0},{0.06067132,0},{0.607813,0},{0.11067132,0}}"/>
+    <Property Name="BackgroundEnabled" Value="False"/>
+    <Property Name="MousePassThroughEnabled" Value="True"/>
+    <Window Name="Play/HideZone/Safe/SupportButtonEndOfTurn/EndOfTurn" Type="GameLook/ButtonClassic">
+        <Property Name="Text" Value="GUI_ENDTURN"/>
+        <Property Name="Visible" Value="False"/>
+        <Property Name="Platform" Value="PC"/>
+        <Property Name="UnifiedAreaRect" Value="{{0.217647,0},{0.0,0},{0.770588,0},{1,0}}"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/SupportButtonEndOfTurn/Legend" Type="GameLook/StaticText">
+        <Property Name="Font" Value="Text2"/>
+        <Property Name="Text" Value="Valider le  placement"/>
+        <Property Name="Platform" Value="PS4/XONE"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="UnifiedAreaRect" Value="{{1.23684,0},{0.0925926,0},{3.98684,0},{0.777778,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/SupportButtonEndOfTurn/Btn_XB1" Type="GameLook/StaticImage">
+        <Property Name="Image" Value="set:ButtonXOne image:Y"/>
+        <Property Name="Platform" Value="XONE"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="UnifiedAreaRect" Value="{{0.394737,0},{0.037037,0},{1.42105,0},{0.796296,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/SupportButtonEndOfTurn/Btn_PS4" Type="GameLook/StaticImage">
+        <Property Name="Font" Value="Book"/>
+        <Property Name="Image" Value="set:ButtonPS4 image:Triangle"/>
+        <Property Name="Platform" Value="PS4"/>
+        <Property Name="PadButtonId" Value="0;"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="UnifiedAreaRect" Value="{{0.394737,0},{0.037037,0},{1.42105,0},{0.796296,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+    </Window>
+</Window>

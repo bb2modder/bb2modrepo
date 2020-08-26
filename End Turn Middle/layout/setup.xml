@@ -1,0 +1,8 @@
+<Window Name="Play/HideZone/Safe/SetupSelection" Type="GameLook/CyaStepperTextConsoleLR">
+    <Property Name="UnifiedAreaRect" Value="{{0.386458,0},{0.0985185,0},{0.607813,0},{0.154074,0}}"/>
+    <Window Name="Play/HideZone/Safe/SetupSelection/SetupSave" Type="GameLook/ButtonClassic">
+        <Property Name="Text" Value="GUI_SETUP_SAVE"/>
+        <Property Name="Platform" Value="PC"/>
+        <Property Name="UnifiedAreaRect" Value="{{0.117647,0},{0.690909,0},{0.870588,0},{1.83636,0}}"/>
+    </Window>
+</Window>

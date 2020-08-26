@@ -1,0 +1,356 @@
+<Window Name="Play/HideZone/Safe/Timer" Type="GameLook/StaticImage">
+    <Property Name="Image" Value="set:Ingame image:Timer"/>
+    <Property Name="FrameEnabled" Value="False"/>
+    <Property Name="UnifiedAreaRect" Value="{{0.511458,0},{0.914375,0},{0.815104,0},{0.980000,0}}" />
+    <Property Name="BackgroundEnabled" Value="False"/>
+    <Property Name="HorizontalAlignment" Value="Centre"/>
+    <Property Name="MousePassThroughEnabled" Value="True"/>
+    <Window Name="Play/HideZone/Safe/Timer/SecondTen0" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="0"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.279588,0},{-0.169014,0},{-0.0137221,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/SecondTen1" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="1"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.279588,0},{-0.169014,0},{-0.0137221,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/SecondTen2" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="2"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.279588,0},{-0.169014,0},{-0.0137221,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/SecondTen3" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="3"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.279588,0},{-0.169014,0},{-0.0137221,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/SecondTen4" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="4"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.279588,0},{-0.169014,0},{-0.0137221,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/SecondTen5" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="5"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.279588,0},{-0.169014,0},{-0.0137221,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/SecondTen6" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="6"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.279588,0},{-0.169014,0},{-0.0137221,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/SecondTen7" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="7"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.279588,0},{-0.169014,0},{-0.0137221,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/SecondTen8" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="8"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.279588,0},{-0.169014,0},{-0.0137221,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/SecondTen9" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="9"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.279588,0},{-0.169014,0},{-0.0137221,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/Minute0" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="0"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.358491,0},{-0.169014,0},{-0.0926243,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/Minute1" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="1"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.358491,0},{-0.169014,0},{-0.0926243,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/Minute2" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="2"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.358491,0},{-0.169014,0},{-0.0926243,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/Minute3" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="3"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.358491,0},{-0.169014,0},{-0.0926243,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/Minute4" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="4"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.358491,0},{-0.169014,0},{-0.0926243,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/Minute5" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="5"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.358491,0},{-0.169014,0},{-0.0926243,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/Minute6" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="6"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.358491,0},{-0.169014,0},{-0.0926243,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/Minute7" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="7"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.358491,0},{-0.169014,0},{-0.0926243,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/Minute8" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="8"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.358491,0},{-0.169014,0},{-0.0926243,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/Minute9" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="9"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.358491,0},{-0.169014,0},{-0.0926243,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/SecondUnit0" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="0"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.22813,0},{-0.169014,0},{0.0377359,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/SecondUnit1" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="1"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.22813,0},{-0.169014,0},{0.0377359,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/SecondUnit2" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="2"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.22813,0},{-0.169014,0},{0.0377359,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/SecondUnit3" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="3"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.22813,0},{-0.169014,0},{0.0377359,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/SecondUnit4" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="4"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.22813,0},{-0.169014,0},{0.0377359,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/SecondUnit5" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="5"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.22813,0},{-0.169014,0},{0.0377359,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/SecondUnit6" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="6"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.22813,0},{-0.169014,0},{0.0377359,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/SecondUnit7" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="7"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.22813,0},{-0.169014,0},{0.0377359,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/SecondUnit8" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="8"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.22813,0},{-0.169014,0},{0.0377359,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/SecondUnit9" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value="9"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.22813,0},{-0.169014,0},{0.0377359,0},{1.16901,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/Separation" Type="GameLook/StaticText">
+        <Property Name="Font" Value="InGameTimer"/>
+        <Property Name="Text" Value=":"/>
+        <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="HorzFormatting" Value="HorzCentred"/>
+        <Property Name="UnifiedAreaRect" Value="{{-0.319039,0},{-0.225352,0},{-0.0531731,0},{1.11268,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="HorizontalAlignment" Value="Centre"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+    <Window Name="Play/HideZone/Safe/Timer/TimerLogo" Type="GameLook/StaticImage">
+        <Property Name="Image" Value="set:Ingame image:hourglass"/>
+        <Property Name="FrameEnabled" Value="False"/>
+        <Property Name="UnifiedAreaRect" Value="{{0.0428807,0},{0.225352,0},{0.102915,0},{0.746479,0}}"/>
+        <Property Name="BackgroundEnabled" Value="False"/>
+        <Property Name="MousePassThroughEnabled" Value="True"/>
+    </Window>
+</Window>

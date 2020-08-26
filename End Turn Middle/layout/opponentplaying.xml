@@ -1,0 +1,4 @@
+<Window Name="Play/HideZone/Safe/OpponentPlaying" Type="GameLook/StaticImage">
+    <Property Name="Alpha" Value="0"/>
+    <Property Name="UnifiedAreaRect" Value="{{0,0},{-0.867752,0},{0.672396,0},{-0.807732,0}}"/>
+</Window>

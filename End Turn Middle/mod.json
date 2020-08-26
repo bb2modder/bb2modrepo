@@ -1,0 +1,16 @@
+{
+  "name": "End Turn Middle",
+  "description": "Puts the End Turn under the score.",
+  "previewImage": "preview.png",
+
+  "files": {
+  },
+  "xml":{
+    "gui/layouts/play.layout":{
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/OpponentPlaying']":"layout/opponentplaying.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/SupportButtonEndOfTurn']":"layout/endturn.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/Timer']":"layout/timer.xml",
+      "/GUILayout/Window/Window/Window/Window[@Name ='Play/HideZone/Safe/SetupSelection']":"layout/setup.xml"
+    }
+  }
+}
