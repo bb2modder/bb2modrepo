@@ -1,10 +1,10 @@
-<Window Type="GameLook/StaticText" Name="Play/HideZone/Safe/Team2Turn7" >
-    <Property Name="Font" Value="InGameTurnValue" />
-    <Property Name="Text" Value="7" />
-    <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC" />
-    <Property Name="FrameEnabled" Value="False" />
-    <Property Name="HorzFormatting" Value="HorzCentred" />
-    <Property Name="UnifiedAreaRect" Value="{{0.636,0},{0.019926,0},{0.644,0},{0.059741,0}}" />
-    <Property Name="BackgroundEnabled" Value="False" />
-    <Property Name="MousePassThroughEnabled" Value="True" />
+<Window Name="Play/HideZone/Safe/Team2Turn7" Type="GameLook/StaticText">
+    <Property Name="Font" Value="InGameTurnValue"/>
+    <Property Name="Text" Value="7"/>
+    <Property Name="TextColours" Value="tl:FFEFE7DC tr:FFEFE7DC bl:FFEFE7DC br:FFEFE7DC"/>
+    <Property Name="FrameEnabled" Value="False"/>
+    <Property Name="HorzFormatting" Value="HorzCentred"/>
+    <Property Name="UnifiedAreaRect" Value="{{0.638,0},{0.019926,0},{0.654,0},{0.059741,0}}"/>
+    <Property Name="BackgroundEnabled" Value="False"/>
+    <Property Name="MousePassThroughEnabled" Value="True"/>
 </Window>

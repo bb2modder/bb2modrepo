@@ -1,1 +1,4 @@
-<Window Type="GameLook/StaticImage" Name="Play/HideZone/Safe/Team2Turn2Selection" />
+<Window Type="GameLook/StaticImage" Name="Play/HideZone/Safe/Team2Turn2Selection" >
+    <Property Name="UnifiedAreaRect" Value="{{-0.0750002,0},{0.37037,0},{0.0921872,0},{0.410185,0}}" />
+    <Property Name="Alpha" Value="0" />
+</Window>
