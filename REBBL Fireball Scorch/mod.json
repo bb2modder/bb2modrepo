@@ -1,7 +1,7 @@
 {
   "name": "REBBL Fireball Scorch",
   "description": "Replaces the wizard fireball pitch scorch mark with a REBBL fist",
-  "previewImage": "",
+  "previewImage": "fireball-preview.png",
 
   "files": {
     "t_shockwavedust_000_0.texture.dds": "3d/vfx/texture/smoke/textureconfig"
