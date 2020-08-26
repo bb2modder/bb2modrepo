@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GUILayout >
+    <Window Type="GameLook/StaticImage" Name="ReplayController" >
+        <Property Name="FrameEnabled" Value="False" />
+        <Property Name="UnifiedAreaRect" Value="{{0,0},{0,0},{1,0},{1.0,0}}" />
+        <Property Name="BackgroundEnabled" Value="False" />
+        <Property Name="MousePassThroughEnabled" Value="True" />
+        <Window Type="GameLook/StaticImage" Name="ReplayController/Safe" >
+            <Property Name="FrameEnabled" Value="False" />
+            <Property Name="UnifiedAreaRect" Value="{{-0.33,0},{0.025,0},{0.485,0},{1.4,0}}" />
+            <Property Name="BackgroundEnabled" Value="False" />
+            <Property Name="VerticalAlignment" Value="Centre" />
+            <Property Name="HorizontalAlignment" Value="Centre" />
+            <Property Name="MousePassThroughEnabled" Value="True" />
+            <Window Type="GameLook/StaticImage" Name="ReplayController/Safe/Bg_Console" >
+                <Property Name="Alpha" Value="0.5" />
+                <Property Name="Platform" Value="PC" />
+                <Property Name="FrameEnabled" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{-0.0245098,0},{-0.0315904,0},{0.598652,0},{0.0326796,0}}" />
+                <Property Name="BackgroundEnabled" Value="False" />
+                <Property Name="VerticalAlignment" Value="Bottom" />
+            </Window>
+            <Window Type="GameLook/ButtonForward" Name="ReplayController/Safe/ReplayFwd" >
+                <Property Name="Platform" Value="PC" />
+                <Property Name="UnifiedAreaRect" Value="{{0.370098,0},{0.918301,0},{0.416667,0},{0.991874,0}}" />
+            </Window>
+            <Window Type="GameLook/ButtonBackward" Name="ReplayController/Safe/ReplayBack" >
+                <Property Name="Platform" Value="PC" />
+                <Property Name="UnifiedAreaRect" Value="{{0.302696,0},{0.918301,0},{0.349265,0},{0.991874,0}}" />
+            </Window>
+            <Window Type="GameLook/CyaTimer" Name="ReplayController/Safe/ReplayProgress" >
+                <Property Name="Alpha" Value="0" />
+                <Property Name="StepSize" Value="0.01" />
+                <Property Name="UnifiedAreaRect" Value="{{0.0349265,0},{0.913943,0},{0.300858,0},{0.991874,0}}" />
+            </Window>
+            <Window Type="GameLook/ButtonPause" Name="ReplayController/Safe/ReplayPause" >
+                <Property Name="Platform" Value="PC" />
+                <Property Name="UnifiedAreaRect" Value="{{0.336397,0},{0.918301,0},{0.382966,0},{0.991874,0}}" />
+            </Window>
+            <Window Type="GameLook/ButtonPlay" Name="ReplayController/Safe/ReplayPlay" >
+                <Property Name="Platform" Value="PC" />
+                <Property Name="UnifiedAreaRect" Value="{{0.336397,0},{0.918301,0},{0.382966,0},{0.991874,0}}" />
+            </Window>
+            <Window Type="GameLook/ButtonClassic" Name="ReplayController/Safe/ReplaySwapCamera" >
+                <Property Name="Text" Value="GUI_SWAP_VIEW" />
+                <Property Name="Platform" Value="PC" />
+                <Property Name="PadButtonId" Value="1;" />
+                <Property Name="PadButtonText" Value="GUI_SWAP_VIEW;" />
+                <Property Name="UnifiedAreaRect" Value="{{0.405637,0},{0.920229,0},{0.558824,0},{0.989946,0}}" />
+            </Window>
+            <Window Type="GameLook/StaticImage" Name="ReplayController/Safe/BtnPS4_L1" >
+                <Property Name="Alpha" Value="0" />
+                <Property Name="Image" Value="set:ButtonPS4 image:L1" />
+                <Property Name="Visible" Value="False" />
+                <Property Name="Platform" Value="PS4" />
+                <Property Name="FrameEnabled" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{0.245711,0},{0.917211,0},{0.296569,0},{0.964052,0}}" />
+                <Property Name="BackgroundEnabled" Value="False" />
+            </Window>
+            <Window Type="GameLook/StaticText" Name="ReplayController/Safe/Legend1" >
+                <Property Name="Font" Value="Text2" />
+                <Property Name="Text" Value="Return" />
+                <Property Name="Visible" Value="False" />
+                <Property Name="Platform" Value="PS4/XONE" />
+                <Property Name="FrameEnabled" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{0.286152,0},{0.937908,0},{0.359681,0},{0.964052,0}}" />
+                <Property Name="BackgroundEnabled" Value="False" />
+            </Window>
+            <Window Type="GameLook/StaticImage" Name="ReplayController/Safe/BtnPS4_Cross" >
+                <Property Name="Font" Value="Book" />
+                <Property Name="Image" Value="set:ButtonPS4 image:Cross" />
+                <Property Name="Visible" Value="False" />
+                <Property Name="Platform" Value="PS4" />
+                <Property Name="PadButtonId" Value="0;" />
+                <Property Name="FrameEnabled" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{0.351103,0},{0.925926,0},{0.401961,0},{0.972767,0}}" />
+                <Property Name="BackgroundEnabled" Value="False" />
+            </Window>
+            <Window Type="GameLook/StaticText" Name="ReplayController/Safe/Legend2" >
+                <Property Name="Font" Value="Text2" />
+                <Property Name="Text" Value="Play" />
+                <Property Name="Visible" Value="False" />
+                <Property Name="Platform" Value="PS4/XONE" />
+                <Property Name="PadButtonId" Value="0;" />
+                <Property Name="FrameEnabled" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{0.39277,0},{0.937908,0},{0.466299,0},{0.964052,0}}" />
+                <Property Name="BackgroundEnabled" Value="False" />
+            </Window>
+            <Window Type="GameLook/StaticImage" Name="ReplayController/Safe/BtnPS4_R1" >
+                <Property Name="Font" Value="Book" />
+                <Property Name="Image" Value="set:ButtonPS4 image:R1" />
+                <Property Name="Visible" Value="False" />
+                <Property Name="Platform" Value="PS4" />
+                <Property Name="PadButtonId" Value="0;" />
+                <Property Name="FrameEnabled" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{0.457721,0},{0.927015,0},{0.508578,0},{0.973856,0}}" />
+                <Property Name="BackgroundEnabled" Value="False" />
+            </Window>
+            <Window Type="GameLook/StaticText" Name="ReplayController/Safe/Legend3" >
+                <Property Name="Font" Value="Text2" />
+                <Property Name="Text" Value="Next" />
+                <Property Name="Visible" Value="False" />
+                <Property Name="Platform" Value="PS4/XONE" />
+                <Property Name="PadButtonId" Value="0;" />
+                <Property Name="FrameEnabled" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{0.5,0},{0.937908,0},{0.573529,0},{0.964052,0}}" />
+                <Property Name="BackgroundEnabled" Value="False" />
+            </Window>
+            <Window Type="GameLook/StaticText" Name="ReplayController/Safe/Legend4" >
+                <Property Name="Font" Value="Text2" />
+                <Property Name="Text" Value="Change View" />
+                <Property Name="Visible" Value="False" />
+                <Property Name="Platform" Value="PS4/XONE" />
+                <Property Name="PadButtonId" Value="0;" />
+                <Property Name="FrameEnabled" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{0.606618,0},{0.936819,0},{0.680147,0},{0.962963,0}}" />
+                <Property Name="BackgroundEnabled" Value="False" />
+            </Window>
+            <Window Type="GameLook/StaticImage" Name="ReplayController/Safe/BtnPS4_Triangle" >
+                <Property Name="Font" Value="Book" />
+                <Property Name="Image" Value="set:ButtonPS4 image:Triangle" />
+                <Property Name="Visible" Value="False" />
+                <Property Name="Platform" Value="PS4" />
+                <Property Name="PadButtonId" Value="0;" />
+                <Property Name="FrameEnabled" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{0.564951,0},{0.927015,0},{0.615809,0},{0.973856,0}}" />
+                <Property Name="BackgroundEnabled" Value="False" />
+            </Window>
+            <Window Type="GameLook/StaticImage" Name="ReplayController/Safe/BtnXB1_Y" >
+                <Property Name="Font" Value="Book" />
+                <Property Name="Image" Value="set:ButtonXOne image:Y" />
+                <Property Name="Visible" Value="False" />
+                <Property Name="Platform" Value="XONE" />
+                <Property Name="PadButtonId" Value="0;" />
+                <Property Name="FrameEnabled" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{0.564951,0},{0.927015,0},{0.615809,0},{0.973856,0}}" />
+                <Property Name="BackgroundEnabled" Value="False" />
+            </Window>
+            <Window Type="GameLook/StaticImage" Name="ReplayController/Safe/BtnXB1_RB" >
+                <Property Name="Font" Value="Book" />
+                <Property Name="Image" Value="set:ButtonXOne image:RB" />
+                <Property Name="Visible" Value="False" />
+                <Property Name="Platform" Value="XONE" />
+                <Property Name="PadButtonId" Value="0;" />
+                <Property Name="FrameEnabled" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{0.457721,0},{0.927015,0},{0.508578,0},{0.973856,0}}" />
+                <Property Name="BackgroundEnabled" Value="False" />
+            </Window>
+            <Window Type="GameLook/StaticImage" Name="ReplayController/Safe/BtnXB1_A" >
+                <Property Name="Font" Value="Book" />
+                <Property Name="Image" Value="set:ButtonXOne image:A" />
+                <Property Name="Visible" Value="False" />
+                <Property Name="Platform" Value="XONE" />
+                <Property Name="PadButtonId" Value="0;" />
+                <Property Name="FrameEnabled" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{0.351103,0},{0.925926,0},{0.401961,0},{0.972767,0}}" />
+                <Property Name="BackgroundEnabled" Value="False" />
+            </Window>
+            <Window Type="GameLook/StaticImage" Name="ReplayController/Safe/BtnXB1_LB" >
+                <Property Name="Font" Value="Book" />
+                <Property Name="Image" Value="set:ButtonXOne image:LB" />
+                <Property Name="Visible" Value="False" />
+                <Property Name="Platform" Value="XONE" />
+                <Property Name="PadButtonId" Value="0;" />
+                <Property Name="FrameEnabled" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{0.245711,0},{0.928105,0},{0.296569,0},{0.974946,0}}" />
+                <Property Name="BackgroundEnabled" Value="False" />
+            </Window>
+        </Window>
+    </Window>
+</GUILayout>

@@ -1,0 +1,10 @@
+{
+    "name": "Replay Control",
+    "description": "Puts replay control bottom left.\nNo more progress bar",
+    "previewImage": "preview.png",
+  
+    "files": {
+        "layouts/replaycontroller.layout": "gui"
+    }
+  }
+  
