@@ -1,0 +1,39 @@
+{
+  "name": "Green Lizardmen",
+  "description": "Changes the lizardmen team skin colour from blue to green",
+  "previewImage": "green-lizard-preview.png",
+
+  "files": {
+    "kroxigor_01_dff_0.texture.dds": "3D/characters/teams/players/lizardman/kroxigor/material/textures/textureconfig",
+    "lizardmansaurus_dff_0.texture.dds": "3D/characters/teams/players/lizardman/saurus/material/textures/textureconfig",
+    "lizardmanskink_dff_0.texture.dds": "3D/characters/teams/players/lizardman/skink/material/textures/textureconfig",
+
+    "kroxigor_head_01_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "saurus_head_02_mat_02_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "saurus_head_07_mat_01_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "saurus_head_10_mat_01_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "skink_head_04_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "skink_head_09_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "kroxigor_head_02_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "saurus_head_03_mat_01_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "saurus_head_07_mat_02_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "saurus_head_11_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "skink_head_05_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "saurus_head_04_mat_01_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "saurus_head_08_mat_01_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "skink_head_01_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "skink_head_06_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "saurus_head_01_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "saurus_head_05_mat_01_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "saurus_head_09_mat_01_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "skink_head_02_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "skink_head_07_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "saurus_head_02_mat_01_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "saurus_head_06_mat_01_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "saurus_head_09_mat_02_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "skink_head_03_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig",
+    "skink_head_08_dff_0.texture.dds": "3D/characters/teams/players/lizardman/head/material/textures/textureconfig"
+
+
+  }
+}
