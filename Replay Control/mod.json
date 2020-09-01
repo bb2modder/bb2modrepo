@@ -1,5 +1,6 @@
 {
     "name": "Replay Control",
+    "category": "User Interface",
     "description": "Puts replay control bottom left.\nNo more progress bar",
     "previewImage": "preview.png",
   

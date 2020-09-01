@@ -1,5 +1,6 @@
 {
   "name": "End Turn Middle",
+  "category": "User Interface",
   "description": "Puts the End Turn under the score.",
   "previewImage": "preview.png",
 

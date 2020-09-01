@@ -1,5 +1,6 @@
 {
   "name": "Horizontal Turn Markers",
+  "category": "User Interface",
   "description": "Turns the vertical turn markers into horizontal ones.\nDrops the active turn background.\nMoves enhancement icon on the lefthand side of the score.",
   "previewImage": "preview.png",
 

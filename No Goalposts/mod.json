@@ -1,5 +1,6 @@
 {
   "name": "No Goalposts",
+  "category": "Visuals",
   "description": "Removes the goalposts from both ends of the pitch",
   "previewImage": "no-goalposts-preview.png",
 

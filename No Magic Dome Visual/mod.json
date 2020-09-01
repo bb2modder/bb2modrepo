@@ -1,5 +1,6 @@
 {
   "name": "No Magic Dome Visual",
+  "category": "Visuals",
   "description": "Removes the weather dome visual effect from a stadium that has a weather dome",
   "previewImage": "no-magic-dome-preview.png",
 
