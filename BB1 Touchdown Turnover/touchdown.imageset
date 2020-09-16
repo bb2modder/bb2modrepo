@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Imageset Name="TouchdownTurnover" Imagefile="Data\Gui\Imagesets\bb_td_to.tga" NativeHorzRes="1920" NativeVertRes="1080" AutoScaled="0" version="2" >
+    <Image Name="Touchdown" XPos="0" YPos="0" Width="1024" Height="512" XOffset="0" YOffset="0" />
+    <Image Name="Turnover" XPos="0" YPos="512" Width="1024" Height="512" XOffset="0" YOffset="0" />
+</Imageset>

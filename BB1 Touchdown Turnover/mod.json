@@ -1,0 +1,15 @@
+{
+  "name": "Blood Bowl 1 Turnover and Touchdown",
+  "category": "Visuals",
+  "description": "Use the old and cool turnover and touchdown image from Blood Bowl 1.",
+  "previewImage": "preview.png",
+
+  "files": {
+    "bb_td_to_0.texture.dds": "data/gui/imagesets/textureconfig",
+    "jingletouchdown.layout":"gui/layouts/jingle",
+    "jingleturnover.layout":"gui/layouts/jingle",
+    "touchdown.imageset":"gui/imagesets",
+    "gamelook.scheme": "gui/schemes/"
+  },
+  "xml":{ }
+}

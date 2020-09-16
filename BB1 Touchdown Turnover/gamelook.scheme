@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GUIScheme Name="GameLook">
+
+   <Imageset IsReloadable="False" Name="GameLook" Filename="Data/Gui/Imagesets/GameLook.imageset"/>
+   <Imageset IsReloadable="False" Name="Mire" Filename="Data/Gui/Imagesets/Mire.imageset"/>
+   <Imageset IsReloadable="False" Name="Cards" Filename="Data/Gui/Imagesets/Cards.imageset"/> 
+   <Imageset IsReloadable="False" Name="KickoffEvent" Filename="Data/Gui/Imagesets/KickoffEvent.imageset"/>
+   <Imageset IsReloadable="False" Name="FxLoading" Filename="Data/Gui/Imagesets/FxLoading.imageset"/>
+   <Imageset IsReloadable="False" Name="Ingame" Filename="Data/Gui/Imagesets/Ingame.imageset"/>
+   <Imageset IsReloadable="False" Name="ButtonPS4" Filename="Data/Gui/Imagesets/ButtonPS4.imageset"/>
+   <Imageset IsReloadable="False" Name="ButtonXOne" Filename="Data/Gui/Imagesets/ButtonXOne.imageset"/>
+   <Imageset IsReloadable="False" Name="Autosave" Filename="Data/Gui/Imagesets/Autosave.imageset"/>
+   <Imageset IsReloadable="False" Name="TooltipIcons" Filename="Data/Gui/Imagesets/TooltipIcons.imageset"/>
+   <Imageset IsReloadable="False" Name="AnimIconRewind" Filename="Data/Gui/Imagesets/AnimIconRewind.imageset"/>
+   <Imageset IsReloadable="False" Name="AnimRewind" Filename="Data/Gui/Imagesets/AnimRewind.imageset"/>
+   <Imageset IsReloadable="False" Name="AnimIconPause" Filename="Data/Gui/Imagesets/AnimIconPause.imageset"/>
+   <Imageset IsReloadable="False" Name="AnimIconPlay" Filename="Data/Gui/Imagesets/AnimIconPlay.imageset"/>
+   <Imageset IsReloadable="False" Name="Dices" Filename="Data/Gui/Imagesets/Dices.imageset"/>
+   <Imageset IsReloadable="False" Name="SkillsIcons" Filename="Data/Gui/Imagesets/SkillsIcons.imageset"/>
+      <Imageset IsReloadable="False" Name="TouchdownTurnover" Filename="Data/Gui/Imagesets/Touchdown.imageset"/> 
+   
+   <Imageset IsReloadable="True" Name="Background" Filename="Data/Gui/Imagesets/Background.imageset"/>
+   <Imageset IsReloadable="True" Name="Legal" Filename="Data/Gui/Imagesets/Legal.imageset"/>
+   <Imageset IsReloadable="True" Name="MaskAlpha" Filename="Data/Gui/Imagesets/MaskAlpha.imageset"/>
+   <Imageset IsReloadable="True" Name="Weather" Filename="Data/Gui/Imagesets/Weather.imageset"/>
+   <Imageset IsReloadable="True" Name="Portraits" Filename="Data/Gui/Imagesets/Portraits.imageset"/>
+   <Imageset IsReloadable="True" Name="StadiumPreview" Filename="Data/Gui/Imagesets/StadiumPreview.imageset"/>
+   <Imageset IsReloadable="True" Name="Races" Filename="Data/Gui/Imagesets/Races.imageset"/>
+   <Imageset IsReloadable="True" Name="RacesIllustration" Filename="Data/Gui/Imagesets/RacesIllustration.imageset"/>
+   <Imageset IsReloadable="True" Name="RacesSituationIllustration" Filename="Data/Gui/Imagesets/RacesSituationIllustration.imageset"/>
+   <Imageset IsReloadable="True" Name="Sponsor" Filename="Data/Gui/Imagesets/Sponsor.imageset"/>
+   <Imageset IsReloadable="True" Name="StructurePreview" Filename="Data/Gui/Imagesets/StructurePreview.imageset"/>
+   <Imageset IsReloadable="True" Name="CupFormat" Filename="Data/Gui/Imagesets/CupFormat.imageset"/>
+   <Imageset IsReloadable="True" Name="Store" Filename="Data/Gui/Imagesets/Store.imageset"/>
+   <Imageset IsReloadable="True" Name="Placeholder" Filename="Data/Gui/Imagesets/Placeholder.imageset"/>
+   <Imageset IsReloadable="True" Name="EndTV" Filename="Data/Gui/Imagesets/EndTV.imageset"/>
+   <Imageset IsReloadable="True" Name="InvitReceive_PC" Filename="Data/Gui/Imagesets/InvitReceive_PC.imageset"/>
+   <Imageset IsReloadable="True" Name="InvitReceive_PS4" Filename="Data/Gui/Imagesets/InvitReceive_PS4.imageset"/>
+   <Imageset IsReloadable="True" Name="InvitReceive_XB1" Filename="Data/Gui/Imagesets/InvitReceive_XB1.imageset"/>
+   <Imageset IsReloadable="True" Name="LevelUp" Filename="Data/Gui/Imagesets/LevelUp.imageset"/>
+   <Imageset IsReloadable="True" Name="Campaign" Filename="Data/Gui/Imagesets/Campaign.imageset"/>
+   <Imageset IsReloadable="True" Name="Intro" Filename="Data/Gui/Imagesets/Intro.imageset"/>
+   <Imageset IsReloadable="True" Name="Map" Filename="Data/Gui/Imagesets/Map.imageset"/>
+   <Imageset IsReloadable="True" Name="Challenges" Filename="Data/Gui/Imagesets/Challenges.imageset"/>
+   <Imageset IsReloadable="True" Name="LegendaryPopup" Filename="Data/Gui/Imagesets/LegendaryPopup.imageset"/>
+   
+   <LookNFeel Filename="Data/Gui/Looknfeel/GameLook.looknfeel"/>
+   <FalagardMapping WindowType="GameLook/Tab" TargetType="CEGUI/RadioButton" Renderer="Game/ToggleButton" LookNFeel="GameLook/Tab"/> 
+   <FalagardMapping WindowType="GameLook/TabLevelUp" TargetType="CEGUI/RadioButton" Renderer="Game/ToggleButton" LookNFeel="GameLook/TabLevelUp"/> 
+   <FalagardMapping WindowType="GameLook/ButtonSmall" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonSmall"/>
+   <FalagardMapping WindowType="GameLook/ButtonClassic" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonClassic"/>
+   <FalagardMapping WindowType="GameLook/ButtonTooltipJ1" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonTooltipJ1"/>
+   <FalagardMapping WindowType="GameLook/ActionMenuButton" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ActionMenuButton"/>
+   <FalagardMapping WindowType="GameLook/ButtonBig" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonBig"/>
+   <FalagardMapping WindowType="GameLook/ButtonPopup" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonPopup"/>
+   <FalagardMapping WindowType="GameLook/ButtonLogin" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonLogin"/>
+   <FalagardMapping WindowType="GameLook/ButtonContextual" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonContextual"/>
+   <FalagardMapping WindowType="GameLook/StaticBox3" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/StaticBox3"/>
+   <FalagardMapping WindowType="GameLook/StaticBox3Table" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/StaticBox3Table"/>
+   <FalagardMapping WindowType="GameLook/StaticBox3Info1" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/StaticBox3Info1"/> 
+   <FalagardMapping WindowType="GameLook/StaticBox3Info2" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/StaticBox3Info2"/>   
+   <FalagardMapping WindowType="GameLook/ButtonEditable" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonEditable"/>
+   <FalagardMapping WindowType="GameLook/ButtonSend" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonSend"/>
+   <FalagardMapping WindowType="GameLook/ButtonCancel" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonCancel"/>
+   <FalagardMapping WindowType="GameLook/ButtonRandom" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonRandom"/>
+   <FalagardMapping WindowType="GameLook/ButtonSale" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonSale"/>
+   <FalagardMapping WindowType="GameLook/ButtonOk" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonOk"/>
+   <FalagardMapping WindowType="GameLook/ListDelete" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ListDelete"/>
+   <FalagardMapping WindowType="GameLook/ButtonCheck" TargetType="CEGUI/Checkbox" Renderer="Game/ToggleButton" LookNFeel="GameLook/ButtonCheck"/>
+   <FalagardMapping WindowType="GameLook/ButtonSearch" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonSearch"/>
+   <FalagardMapping WindowType="GameLook/ButtonChat" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonChat"/>
+   <FalagardMapping WindowType="GameLook/ButtonMatch" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonMatch"/>
+   <FalagardMapping WindowType="GameLook/ButtonSettingPS4" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonSettingPS4"/>
+   <FalagardMapping WindowType="GameLook/ButtonSettingXbox1" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonSettingXbox1"/>
+   <FalagardMapping WindowType="GameLook/ButtonSocial" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonSocial"/>
+   <FalagardMapping WindowType="GameLook/ScrollBarVertical" TargetType="CEGUI/Scrollbar" Renderer="Game/Scrollbar" LookNFeel="GameLook/ScrollBarVertical"/>
+   <FalagardMapping WindowType="GameLook/ScrollBarVerticalThumb" TargetType="CEGUI/Thumb" Renderer="Game/Button" LookNFeel="GameLook/ScrollBarVerticalThumb"/>   
+   <FalagardMapping WindowType="GameLook/ButtonArrowDown" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonArrowDown"/>
+   <FalagardMapping WindowType="GameLook/ButtonArrowLeft" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonArrowLeft"/>
+   <FalagardMapping WindowType="GameLook/ButtonArrowRight" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonArrowRight"/>
+   <FalagardMapping WindowType="GameLook/ButtonArrowUp" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonArrowUp"/>
+   <FalagardMapping WindowType="GameLook/ComboBox" TargetType="CEGUI/Combobox" Renderer="Game/Default" LookNFeel="GameLook/ComboBox"/>
+   <FalagardMapping WindowType="GameLook/ComboBoxOut" TargetType="CEGUI/Combobox" Renderer="Game/Default" LookNFeel="GameLook/ComboBoxOut"/>
+   <FalagardMapping WindowType="GameLook/ComboEditbox" TargetType="CEGUI/Editbox" Renderer="Game/Editbox" LookNFeel="GameLook/ComboEditbox"/>
+   <FalagardMapping WindowType="GameLook/EditableTable" TargetType="CEGUI/MultiLineEditbox" Renderer="Game/MultiLineEditbox" LookNFeel="GameLook/EditableTable"/>
+   <FalagardMapping WindowType="GameLook/EditableLine" TargetType="CEGUI/Editbox" Renderer="Game/Editbox" LookNFeel="GameLook/EditableLine"/>
+   <FalagardMapping WindowType="GameLook/ComboDropList" TargetType="CEGUI/ComboDropList" Renderer="Game/Listbox" LookNFeel="GameLook/ComboDropList"/>   
+   <FalagardMapping WindowType="GameLook/ProgressBar" TargetType="CEGUI/ProgressBar" Renderer="Game/ProgressBar" LookNFeel="GameLook/ProgressBar"/>
+   <FalagardMapping WindowType="GameLook/Tooltip" TargetType="CEGUI/Tooltip" Renderer="Game/Tooltip" LookNFeel="GameLook/Tooltip"/>
+   <FalagardMapping WindowType="GameLook/Tuto" TargetType="DefaultWindow" Renderer="Game/TooltipArrow" LookNFeel="GameLook/Tuto"/>
+   <FalagardMapping WindowType="GameLook/TooltipBlue" TargetType="DefaultWindow" Renderer="Game/TooltipArrow" LookNFeel="GameLook/TooltipBlue"/>
+   <FalagardMapping WindowType="GameLook/TooltipRed" TargetType="DefaultWindow" Renderer="Game/TooltipArrow" LookNFeel="GameLook/TooltipRed"/>
+   <FalagardMapping WindowType="GameLook/TooltipJ1" TargetType="DefaultWindow" Renderer="Game/TooltipArrow" LookNFeel="GameLook/TooltipJ1"/>
+   <FalagardMapping WindowType="GameLook/TooltipJ2" TargetType="DefaultWindow" Renderer="Game/TooltipArrow" LookNFeel="GameLook/TooltipJ2"/>
+   <FalagardMapping WindowType="GameLook/StaticText" TargetType="DefaultWindow" Renderer="Game/StaticText" LookNFeel="GameLook/StaticText"/>
+   <FalagardMapping WindowType="GameLook/StaticTextVariable" TargetType="DefaultWindow" Renderer="Game/StaticText" LookNFeel="GameLook/StaticTextVariable"/>
+   <FalagardMapping WindowType="GameLook/StaticImage" TargetType="DefaultWindow" Renderer="Game/StaticImage" LookNFeel="GameLook/StaticImage"/>
+   <FalagardMapping WindowType="GameLook/Popup" TargetType="DefaultWindow" Renderer="Game/Default" LookNFeel="GameLook/Popup"/>
+   <FalagardMapping WindowType="GameLook/Box9Background" TargetType="DefaultWindow" Renderer="Game/Default" LookNFeel="GameLook/Box9Background"/>
+   <FalagardMapping WindowType="GameLook/ActionMenuFrame" TargetType="DefaultWindow" Renderer="Game/Default" LookNFeel="GameLook/ActionMenuFrame"/>
+   <FalagardMapping WindowType="GameLook/Frame" TargetType="DefaultWindow" Renderer="Game/Default" LookNFeel="GameLook/Frame"/>
+   <FalagardMapping WindowType="GameLook/ButtonSystem" TargetType="CEGUI/PushButton" Renderer="Game/SystemButton" LookNFeel="GameLook/ImageButton"/>
+   <FalagardMapping WindowType="GameLook/ImageButton" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ImageButton"/>
+   <FalagardMapping WindowType="GameLook/ButtonLeft" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonLeft"/>
+   <FalagardMapping WindowType="GameLook/ButtonRight" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonRight"/>
+   <FalagardMapping WindowType="GameLook/ButtonUp" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonUp"/>
+   <FalagardMapping WindowType="GameLook/ButtonDown" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonDown"/>
+   <FalagardMapping WindowType="GameLook/ButtonNavigationBack" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonNavigationBack"/>
+   <FalagardMapping WindowType="GameLook/ButtonNavigationHome" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonNavigationHome"/>
+   <FalagardMapping WindowType="GameLook/ButtonNavigationNext" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonNavigationNext"/>
+   <FalagardMapping WindowType="GameLook/Button" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/Button"/>
+   <FalagardMapping WindowType="GameLook/BorderAvatarWindow" TargetType="CEGUI/FrameWindow" Renderer="Game/FrameWindow" LookNFeel="GameLook/BorderAvatarWindow"/>
+   <FalagardMapping WindowType="GameLook/TitleBarConsole" TargetType="CEGUI/Titlebar" Renderer="Game/Titlebar" LookNFeel="GameLook/TitleBarConsole"/>
+   <FalagardMapping WindowType="GameLook/ButtonPlus" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonPlus"/>
+   <FalagardMapping WindowType="GameLook/ButtonMinus" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonMinus"/>
+   <FalagardMapping WindowType="GameLook/ScrollBarHorizontal" TargetType="CEGUI/Scrollbar" Renderer="Game/Scrollbar" LookNFeel="GameLook/ScrollBarHorizontal"/>
+   <FalagardMapping WindowType="GameLook/ScrollBarHorizontalThumb" TargetType="CEGUI/Thumb" Renderer="Game/Button" LookNFeel="GameLook/ScrollBarHorizontalThumb"/>
+   <FalagardMapping WindowType="GameLook/OptionScrollbar" TargetType="CEGUI/Scrollbar" Renderer="Game/Scrollbar" LookNFeel="GameLook/OptionScrollbar"/>
+   <FalagardMapping WindowType="GameLook/ListBox" TargetType="CEGUI/Listbox" Renderer="Game/Listbox" LookNFeel="GameLook/ListBox"/>
+   <FalagardMapping WindowType="GameLook/ListBoxSkin" TargetType="CEGUI/Listbox" Renderer="Game/ListboxSkin" LookNFeel="GameLook/ListBoxSkin"/>
+   <FalagardMapping WindowType="GameLook/MultiColumnList" TargetType="CEGUI/MultiColumnList" Renderer="Game/MultiColumnList" LookNFeel="GameLook/MultiColumnList"/>
+   <FalagardMapping WindowType="GameLook/MultiColumnListSkin" TargetType="CEGUI/MultiColumnList" Renderer="Game/MultiColumnSkinList" LookNFeel="GameLook/MultiColumnListSkin"/>
+   <FalagardMapping WindowType="GameLook/ListHeader" TargetType="CEGUI/ListHeader" Renderer="Game/ListHeader" LookNFeel="GameLook/ListHeader"/>
+   <FalagardMapping WindowType="GameLook/ListHeaderSegment" TargetType="CEGUI/ListHeaderSegment" Renderer="Game/ListHeaderSegment" LookNFeel="GameLook/ListHeaderSegment"/>
+   <FalagardMapping WindowType="GameLook/ButtonBuy" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonBuy"/>
+   <FalagardMapping WindowType="GameLook/ScrollablePane" TargetType="CEGUI/ScrollablePane" Renderer="Game/ScrollablePane" LookNFeel="GameLook/ScrollablePane"/>
+   <FalagardMapping WindowType="GameLook/StaticTextLink" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/StaticTextLink"/>
+   <FalagardMapping WindowType="GameLook/Animation" TargetType="DefaultWindow" Renderer="Game/Animation" LookNFeel="GameLook/Animation"/>
+   <FalagardMapping WindowType="GameLook/CyaSlider" TargetType="CEGUI/CyaSlider" Renderer="Game/CyaSlider" LookNFeel="GameLook/CyaSlider"/>
+   <FalagardMapping WindowType="GameLook/CyaStepperText" TargetType="CEGUI/CyaStepperText" Renderer="Game/CyaStepperText" LookNFeel="GameLook/CyaStepperText"/>
+   <FalagardMapping WindowType="GameLook/ButtonRightStepper" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonRightStepper"/>
+   <FalagardMapping WindowType="GameLook/ButtonLeftStepper" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonLeftStepper"/>
+   <FalagardMapping WindowType="GameLook/CyaStepperNum" TargetType="CEGUI/CyaStepperNum" Renderer="Game/CyaStepperNum" LookNFeel="GameLook/CyaStepperNum"/>
+   <FalagardMapping WindowType="GameLook/CyaStepperTextConsole" TargetType="CEGUI/CyaStepperText" Renderer="Game/CyaStepperText" LookNFeel="GameLook/CyaStepperTextConsole"/>
+   <FalagardMapping WindowType="GameLook/CyaStepperTextConsoleLR" TargetType="CEGUI/CyaStepperText" Renderer="Game/CyaStepperText" LookNFeel="GameLook/CyaStepperTextConsoleLR"/>
+   <FalagardMapping WindowType="GameLook/ButtonPlusStepper" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonPlusStepper"/>
+   <FalagardMapping WindowType="GameLook/ButtonMinusStepper" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonMinusStepper"/>
+   <FalagardMapping WindowType="GameLook/CyaTimer" TargetType="CEGUI/ProgressBar" Renderer="Game/ProgressBar" LookNFeel="GameLook/CyaTimer"/>
+   <FalagardMapping WindowType="GameLook/SettingBarHorizontal" TargetType="CEGUI/ProgressBar" Renderer="Game/ProgressBar" LookNFeel="GameLook/SettingBarHorizontal"/>
+   <FalagardMapping WindowType="GameLook/ButtonPlay" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonPlay"/>
+   <FalagardMapping WindowType="GameLook/ButtonPause" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonPause"/>
+   <FalagardMapping WindowType="GameLook/ButtonBackward" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonBackward"/>
+   <FalagardMapping WindowType="GameLook/ButtonForward" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonForward"/>
+   <FalagardMapping WindowType="GameLook/ButtonRightSlider" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonRightSlider"/>
+   <FalagardMapping WindowType="GameLook/ButtonLeftSlider" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonLeftSlider"/>
+   <FalagardMapping WindowType="GameLook/ButtonPadHover" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonPadHover"/>
+   <FalagardMapping WindowType="GameLook/HoverNews" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/HoverNews"/>
+   
+   <!--SOUND SPECIFIC -->
+   <FalagardMapping WindowType="GameLook/ButtonBack" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonClassic"/>
+   <FalagardMapping WindowType="GameLook/ButtonBuySmall" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonSmall"/>
+   <FalagardMapping WindowType="GameLook/ButtonBuyClassic" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonClassic"/>
+   <FalagardMapping WindowType="GameLook/ButtonFired" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonClassic"/>
+   <FalagardMapping WindowType="GameLook/ButtonFiredValidate" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonClassic"/>
+   <FalagardMapping WindowType="GameLook/ButtonLevelUpDispo" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonClassic"/>
+   <FalagardMapping WindowType="GameLook/ButtonLevelUp" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonClassic"/>
+   <FalagardMapping WindowType="GameLook/ButtonStartMatch" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonClassic"/>
+   <FalagardMapping WindowType="GameLook/CyaStepperNumBuy" TargetType="CEGUI/CyaStepperNum" Renderer="Game/CyaStepperNum" LookNFeel="GameLook/CyaStepperNum"/>
+   <FalagardMapping WindowType="GameLook/ButtonPlusStepper" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonPlusStepper"/>
+   <FalagardMapping WindowType="GameLook/ButtonMinusStepper" TargetType="CEGUI/PushButton" Renderer="Game/Button" LookNFeel="GameLook/ButtonMinusStepper"/>
+
+</GUIScheme>

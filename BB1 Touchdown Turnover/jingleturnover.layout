@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GUILayout >
+    <Window Type="GameLook/StaticImage" Name="JingleTurnover" >
+        <Property Name="FrameEnabled" Value="False" />
+        <Property Name="UnifiedAreaRect" Value="{{0,0},{0,0},{1,0},{1,0}}" />
+        <Property Name="BackgroundEnabled" Value="False" />
+        <Property Name="MousePassThroughEnabled" Value="True" />
+        <Window Type="GameLook/StaticImage" Name="JingleTurnover/Background" >
+            <Property Name="Image" Value="set:TouchdownTurnover image:Turnover" />
+            <Property Name="AnimationIn" Value="type:FromRight delay:0.1 duration:0.3 start:1" />
+            <Property Name="AnimationOut" Value="type:FadeOut duration:0.2" />
+            <Property Name="FrameEnabled" Value="False" />
+            <Property Name="UnifiedAreaRect" Value="{{-0.00625,0},{0,0},{0.49375,0},{0.300926,0}}" />
+            <Property Name="BackgroundEnabled" Value="False" />
+            <Property Name="VerticalAlignment" Value="Centre" />
+            <Property Name="HorizontalAlignment" Value="Centre" />
+            <Property Name="MousePassThroughEnabled" Value="True" />
+            <Window Type="GameLook/StaticText" Name="JingleTurnover/Background/TitleTop" >
+                <Property Name="Font" Value="JingleTitle" />
+                <Property Name="Text" Value="GUI_JINGLE_TURNOVER" />
+                <Property Name="AnimationIn" Value=" " />
+                <Property Name="TextColours" Value="tl:FFC8280D tr:FFC8280D bl:FFC8280D br:FFC8280D" />
+                <Property Name="Alpha" Value="0" />
+                <Property Name="AnimationOut" Value=" " />
+                <Property Name="FrameEnabled" Value="False" />
+                <Property Name="HorzFormatting" Value="HorzCentred" />
+                <Property Name="UnifiedAreaRect" Value="{{0,0},{0,0},{0.715871,0},{1,0}}" />
+                <Property Name="BackgroundEnabled" Value="False" />
+                <Property Name="HorizontalAlignment" Value="Centre" />
+                <Property Name="MousePassThroughEnabled" Value="True" />
+            </Window>
+        </Window>
+        <Window Type="GameLook/StaticImage" Name="JingleTurnover/TitleImage" >
+            <Property Name="Image" Value="set:TouchdownTurnover image:Touchdown" />
+            <Property Name="AnimationIn" Value="type:FromLeft delay:0.1 duration:0.3 start:-1" />
+            <Property Name="AnimationOut" Value="type:FadeOut duration:0.2" />
+            <Property Name="FrameEnabled" Value="False" />
+            <Property Name="Alpha" Value="0" />
+            <Property Name="UnifiedAreaRect" Value="{{-0.0619792,0},{0.062037,0},{0.380729,0},{0.142593,0}}" />
+            <Property Name="BackgroundEnabled" Value="False" />
+            <Property Name="MousePassThroughEnabled" Value="True" />
+            <Window Type="GameLook/StaticImage" Name="JingleTurnover/TitleImage/Logo_Team_NotPlaying" >
+                <Property Name="Alpha" Value="0" />
+                <Property Name="Image" Value="set:Placeholder image:LogoTemp" />
+                <Property Name="FrameEnabled" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{0.164706,0},{0,0},{0.341176,0},{1.72414,0}}" />
+                <Property Name="BackgroundEnabled" Value="False" />
+                <Property Name="VerticalAlignment" Value="Centre" />
+                <Property Name="MousePassThroughEnabled" Value="True" />
+            </Window>
+            <Window Type="GameLook/StaticText" Name="JingleTurnover/TitleImage/TeamTitle" >
+                <Property Name="Alpha" Value="0" />
+                <Property Name="Font" Value="Title1" />
+                <Property Name="Text" Value="$NAME_TEAM_NOTPLAYING" />
+                <Property Name="TextColours" Value="tl:FFE1E9F1 tr:FFE1E9F1 bl:FFE1E9F1 br:FFE1E9F1" />
+                <Property Name="FrameEnabled" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{0.358824,0},{0.425287,0},{1.21176,0},{0.908046,0}}" />
+                <Property Name="BackgroundEnabled" Value="False" />
+                <Property Name="MousePassThroughEnabled" Value="True" />
+            </Window>
+            <Window Type="GameLook/StaticText" Name="JingleTurnover/TitleImage/CoachTitle" >
+                <Property Name="Alpha" Value="0" />
+                <Property Name="Font" Value="Subtitle1" />
+                <Property Name="Text" Value="$COACH_TEAM_NOTPLAYING" />
+                <Property Name="TextColours" Value="tl:FF7FC2D0 tr:FF7FC2D0 bl:FF7FC2D0 br:FF7FC2D0" />
+                <Property Name="FrameEnabled" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{0.347059,0},{0.114943,0},{1.2,0},{0.482759,0}}" />
+                <Property Name="BackgroundEnabled" Value="False" />
+                <Property Name="MousePassThroughEnabled" Value="True" />
+            </Window>
+        </Window>
+    </Window>
+</GUILayout>
