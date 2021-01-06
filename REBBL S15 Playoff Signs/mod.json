@@ -1,0 +1,17 @@
+{
+  "name": "REBBL S15 Playoff Signs",
+  "category": "REBBL",
+  "description": "Changes one of the advertising signs to show \"Season 15 Playoffs\" for REBBL",
+  "previewImage": "s15 playoff signs.png",
+
+  "files": {
+    "woodenpanbbboardgame1_dff_0.texture.dds": "3d/stadium/cabal/material/textures/textureconfig",
+    "woodenpanbbboardgame2_dff_0.texture.dds": "3d/stadium/cabal/material/textures/textureconfig",
+    "woodenpanlogo_dff_0.texture.dds": "3d/stadium/cabal/material/textures/textureconfig",
+    "woodenpanlogoaldorf_dff_0.texture.dds": "3d/stadium/cabal/material/textures/textureconfig",
+    "woodenpanlogobloodbowl_dff_0.texture.dds": "3d/stadium/cabal/material/textures/textureconfig",
+    "woodenpanlogomcmurtys_dff_0.texture.dds": "3d/stadium/cabal/material/textures/textureconfig",
+
+    "sponsorpan_dff_0.texture.dds": "3d/stadium/sponsors/default/materials/textures/textureconfig"
+  }
+}
