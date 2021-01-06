@@ -1,0 +1,10 @@
+{
+  "name": "REBBL S15 PO pitch",
+  "category": "REBBL",
+  "description": "Extension to the rebbl.net signup pitch with \"Season Playoffs\" and a \"15\" super-imposed beneath. Grass pitch only.",
+  "previewImage": "po15pitch.png",
+
+  "files": {
+    "grasslight_dff_0.texture.dds": "3d/stadium/grasspitch/material/textures/textureconfig"
+  }
+}
