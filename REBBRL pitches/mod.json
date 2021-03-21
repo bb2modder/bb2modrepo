@@ -1,0 +1,12 @@
+{
+  "name": "REBBL Rookie Pitches",
+  "category": "REBBRL",
+  "description": "Adds the REBBL Rookie logo to the grass, astrogranite and elf turf pitches. Obviously not compatible with 'REBBL Pitches' mod.",
+  "previewImage": "rebbrl-pitches-preview.png",
+
+  "files": {
+    "grasslight_dff_0.texture.dds": "3d/stadium/grasspitch/material/textures/textureconfig",
+    "grasslightelfturf_dff_0.texture.dds": "3d/stadium/grasspitch/material/textures/textureconfig",
+    "astrogranitelogos_dff_0.texture.dds": "3d/stadium/custo/material/textures/textureconfig"
+  }
+}
