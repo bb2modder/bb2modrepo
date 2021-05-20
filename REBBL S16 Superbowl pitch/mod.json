@@ -1,0 +1,10 @@
+{
+  "name": "REBBL S16 Superbowl pitch",
+  "category": "REBBL",
+  "description": "Extension to the rebbl.net signup pitch with \"SUPERBOWL\" and a \"16\" super-imposed beneath. Grass pitch only.",
+  "previewImage": "superbowl16pitch.png",
+
+  "files": {
+    "grasslight_dff_0.texture.dds": "3d/stadium/grasspitch/material/textures/textureconfig"
+  }
+}
