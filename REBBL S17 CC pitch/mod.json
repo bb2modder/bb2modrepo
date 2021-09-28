@@ -1,0 +1,11 @@
+{
+  "name": "REBBL S17 CC pitch",
+  "category": "REBBL",
+  "description": "rebbl.net pitch for Challenger's Cup 17. Grass and elf-turf pitches only.",
+  "previewImage": "cc17pitch.png",
+
+  "files": {
+    "grasslight_dff_0.texture.dds": "3d/stadium/grasspitch/material/textures/textureconfig",
+    "grasslightelfturf_dff_0.texture.dds": "3d/stadium/grasspitch/material/textures/textureconfig"
+  }
+}

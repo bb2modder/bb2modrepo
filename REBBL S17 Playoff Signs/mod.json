@@ -1,8 +1,8 @@
 {
-  "name": "REBBL S16 Playoff Signs",
+  "name": "REBBL S17 Playoff Signs",
   "category": "REBBL",
-  "description": "Changes one of the advertising signs to show \"Season 16 Playoffs\" for REBBL",
-  "previewImage": "s16 playoff signs.png",
+  "description": "Changes the advertising signs for \"Season 17 Playoffs\" of REBBL",
+  "previewImage": "s17 playoff signs.png",
 
   "files": {
     "woodenpanbbboardgame1_dff_0.texture.dds": "3d/stadium/cabal/material/textures/textureconfig",
