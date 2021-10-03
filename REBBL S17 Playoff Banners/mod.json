@@ -1,0 +1,11 @@
+{
+  "name": "REBBL S17 PO banners",
+  "category": "REBBL",
+  "description": "Replaces the Cabalvision banners in the main menu with ReBBL PO banners.",
+  "previewImage": "preview.jpg",
+
+  "files": {
+    "chainsflag_menu_legendary_dff_0.texture.dds": "3D/stadium/cabal/material/textures/textureconfig",
+    "chainsflag_menu_legendary_spc_0.texture.dds": "3D/stadium/cabal/material/textures/textureconfig"
+  }
+}
