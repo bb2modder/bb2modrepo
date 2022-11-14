@@ -1,8 +1,8 @@
 {
-  "name": "REBBL S19 PO pitch",
+  "name": "REBBL S20 PO pitch",
   "category": "REBBL",
-  "description": "rebbl.net pitch for Playoffs 19. Grass and elf-turf pitches only.",
-  "previewImage": "po19pitch.png",
+  "description": "REBBL pitch for Playoffs 20. Grass and elf-turf pitches only.",
+  "previewImage": "po20pitch.png",
 
   "files": {
     "grasslight_dff_0.texture.dds": "3d/stadium/grasspitch/material/textures/textureconfig",

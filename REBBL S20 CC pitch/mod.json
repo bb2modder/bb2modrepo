@@ -1,8 +1,8 @@
 {
-  "name": "REBBL S19 CC pitch",
+  "name": "REBBL S20 CC pitch",
   "category": "REBBL",
-  "description": "rebbl.net pitch for Challenger's Cup 19. Grass and elf-turf pitches only.",
-  "previewImage": "cc19pitch.png",
+  "description": "REBLL pitch for Challenger's Cup 20. Grass and elf-turf pitches only.",
+  "previewImage": "cc20pitch.png",
 
   "files": {
     "grasslight_dff_0.texture.dds": "3d/stadium/grasspitch/material/textures/textureconfig",
