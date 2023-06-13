@@ -1,0 +1,13 @@
+{
+  "name": "BloodLust Shows WA",
+  "category": "User Interface",
+  "description": "Vampires show wild animal icon above them while Bloodlusting.",
+  "previewImage":"Normal_Preview.png",
+
+
+  "files": {
+    "vfx.xml":
+      "vfx"
+  }
+}
+
